@@ -41,7 +41,7 @@ To use or modify this project, ensure you have:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/snehah13/blinkit-powerbi.git
+   git clone https://github.com/priyankamadawal1993-cmyk/blinkit-powerbi.git
    ```
 2. Open `BLINKIT REPORT.pbit` in **Power BI Desktop**.
 3. Connect to the required data sources (if necessary).
