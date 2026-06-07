@@ -53,11 +53,11 @@ To use or modify this project, ensure you have:
 ![dashboard_screenshot](https://github.com/user-attachments/assets/3240e850-7272-4438-a817-ab54438abf6f)
 
 ## 🔗 Contact
- 📧 Email: (mailto\:snehaah13@gmail.com)
+ 📧 Email: (mailto\:priyankamadawal1993@gmail.com)
   
 ## Author
-sneha H
-GitHub: snehah13
+Priyanka M
+GitHub: priyankamadawal1993-cmyk
 ---
 
 ## 📜 License
